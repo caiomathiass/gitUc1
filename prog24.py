@@ -11,5 +11,4 @@ match op:
   print ("")
  case "3":
  case "4":
- print("teste de push")
-print
+ print("teste de commit")
